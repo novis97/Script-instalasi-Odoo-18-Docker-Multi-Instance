@@ -1,8 +1,6 @@
 INSTRUKSI INSTALASI ODOO 18 DOCKER
 # Download script instalasi
-wget https://raw.githubusercontent.com/your-repo/odoo18-install.sh
-# ATAU buat file manual:
-nano install_odoo18.sh
+wget https://github.com/novis97/Script-instalasi-Odoo-18-Docker-Multi-Instance/blob/main/install_odoo18.sh
 # Berikan permission execute
 chmod +x install_odoo18.sh
 # Jalankan script sebagai sudo
